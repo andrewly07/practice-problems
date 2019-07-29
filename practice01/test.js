@@ -1,12 +1,14 @@
 var myArray = ['bug', 'insect', 'mammal', 'reptile', 'mammoth', 'turtles'];
+var string1 = 'bug';
 
-function biggerWords(param1, param2){
+function biggerWords(string1, array1){
+    var array1 = [];
     for(var i = 0; i < myArray.length; i++){
-        if(myArray[i].length > param1){
-            param2.push(myArray[i])
+        if(myArray[i].length > string1.length){
+            array1.push(myArray[i])
         }
 
     }    
-    return param2;
+    return array1;
 
 }
