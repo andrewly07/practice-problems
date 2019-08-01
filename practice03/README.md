@@ -9,3 +9,6 @@ Build a function that sorts an array into a multidimensional array grouped by da
 	- `var myArray = ['hello', 34, true, false, 'goodbye', 56, 12, '25', true];`
 	- `groupArray(myArray);`
 	- Output - `[['hello, 'goodbye', '25'], [34, 56, 12], [true, false, true]]`
+
+1. write a function that takes 1 parameter
+2. check list for 
