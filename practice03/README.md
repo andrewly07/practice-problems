@@ -10,5 +10,10 @@ Build a function that sorts an array into a multidimensional array grouped by da
 	- `groupArray(myArray);`
 	- Output - `[['hello, 'goodbye', '25'], [34, 56, 12], [true, false, true]]`
 
-1. write a function that takes 1 parameter
-2. check list for 
+1. write a function that takes 1 list parameter
+2. check list for each value
+3. if value is equal to a boolean, add to a list
+4. if value is equal to a string , add to a second list
+5. if value is equal to a number, add to a third list
+6. combine these three lists
+7. return a single list
