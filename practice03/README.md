@@ -16,4 +16,4 @@ Build a function that sorts an array into a multidimensional array grouped by da
 4. if value is equal to a string , add to a second list
 5. if value is equal to a number, add to a third list
 6. combine these three lists
-7. return a single list
+7. return a single list.
