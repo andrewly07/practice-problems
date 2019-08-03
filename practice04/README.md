@@ -10,3 +10,5 @@ Build a function that takes in an array of strings and outputs a new array with 
 	- `sort(myArray);`
 	- Output - `['cat', 'dog', 'human', 'mouse']`
 - Try doing this using a **Bubble Sort**, if you are unsure what that is <a href="https://www.google.com" target="_blank">Click Here</a>
+
+1. 
