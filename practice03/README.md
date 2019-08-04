@@ -17,3 +17,5 @@ Build a function that sorts an array into a multidimensional array grouped by da
 5. if value is equal to a number, add to a third list
 6. combine these three lists
 7. return a single list.
+
+switch 
