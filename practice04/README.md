@@ -11,4 +11,6 @@ Build a function that takes in an array of strings and outputs a new array with 
 	- Output - `['cat', 'dog', 'human', 'mouse']`
 - Try doing this using a **Bubble Sort**, if you are unsure what that is <a href="https://www.google.com" target="_blank">Click Here</a>
 
-1. 
+1. define a function
+2. this function takes 1 parameter
+3. 
