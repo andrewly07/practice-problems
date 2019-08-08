@@ -13,4 +13,5 @@ Build a function that takes in an array of strings and outputs a new array with 
 
 1. define a function
 2. this function takes 1 parameter
-3. 
+3. loop through array list
+4. check each letter in list
