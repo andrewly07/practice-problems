@@ -18,3 +18,14 @@ Build a function that will translate text into "Pig Latin" Take the first conson
 - Also try maintaining capitalization of words that are capitalized in your input string.
 	- Example: 
 		- `"Hello there"` would be `"Ellohay heretay"`
+
+
+1. Make an empty string to hold your Pig Latin word.
+2. Assign your appropriate regular expression to a variable.
+3. If the first character is a vowel, just add way to end of string and return it.
+4. If the first character is not a vowel:
+		Find number of consonants before first vowel with help of indexOf(), match() and regex.
+		Start Pig Latin string with first vowel till the end.
+		Add letters before first vowel to end of string.
+		substr() is used for string manipulation here.
+		Add 'ay' to end of string and return it.
