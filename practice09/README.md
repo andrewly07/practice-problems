@@ -10,3 +10,6 @@ Build a function that takes in a string and an array of strings. The function sh
 	- `var myArray = ['cat','caterpillar','whale','accurate','smile','cactus','cute'];`
 	- `fittingWords('cat', myArray);`
 	- Output - `['cat','caterpillar','accurate','cactus']`
+
+
+1. 

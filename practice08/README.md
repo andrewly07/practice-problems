@@ -10,3 +10,5 @@ Create a function definition that achieves the output with the given input.
 - Optimization: How would you speed up the processing if you already encountered a value?
 
 <a href="" target="_blank">Solution Set</a>
+
+1.
