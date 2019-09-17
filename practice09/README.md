@@ -12,4 +12,8 @@ Build a function that takes in a string and an array of strings. The function sh
 	- Output - `['cat','caterpillar','accurate','cactus']`
 
 
-1. 
+1. write a function called fittingWords that takes 2 parameters
+2. define an array with multiple words
+3. the first parameter should have be a string with the letters you want to compare 
+4. the second parameter is the array you want to loop through
+5. 
