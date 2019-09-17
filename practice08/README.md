@@ -11,4 +11,8 @@ Create a function definition that achieves the output with the given input.
 
 <a href="" target="_blank">Solution Set</a>
 
-1.
+1. create a function that takes 1 parameter
+    -create a variable to store the answer.
+2. loop through the a string
+3. take each character and convert it to an ascii number
+4. 
