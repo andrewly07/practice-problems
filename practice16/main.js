@@ -1,4 +1,4 @@
-function danielp_spitSequence(N){
+function spitSequence(N){
     var array=[];
     for(var i=N; i<(N+11);i++){
       if(!(i%3)){
