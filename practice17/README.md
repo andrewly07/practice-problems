@@ -10,4 +10,5 @@ Create a function definition that achieves the output with the given input.
 
 <a href="http://jsbin.com/vacogo/edit?html,js,output" target="_blank">Solution Set</a>
 
-
+1. create an empty array to hold answer
+2. 
