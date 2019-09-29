@@ -35,3 +35,4 @@ output = [
 ```
 So, for example, you would take the values from input_array[0][0], input_array[0][1], input_array[1,0], and intput_array[1,1], add them all together, divide by the total number of cells added, and then place that value back into all the cells sampled
 
+1. find 2x2 square 

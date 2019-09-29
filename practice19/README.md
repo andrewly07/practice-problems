@@ -31,3 +31,5 @@ console.log(output); //outputs
 #### Put your solution in answer.js
 
 - hint: <a href="http://www.stoimen.com/blog/2010/07/09/friday-algorithms-javascript-bubble-sort/" target="_blank">Here</a> is an example of a bubble sort in both psuedo-code and javascript which can serve as the basis of your sorting function.
+
+1. 
